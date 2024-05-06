@@ -71,7 +71,7 @@ Follow these steps to set up the project on your Windows system:
 5. **Clone the Repository:**
    - Clone the `digital-twins-graphs` repository into the `projects` directory:
      ```bash
-     git clone [https://github.com/lizettewessels/digital-twins-graphs.git](https://github.com/lizettewessels/digital-twins-graphs.git)
+     git clone https://github.com/lizettewessels/digital-twins-graphs.git
      cd digital-twins-graphs
      ```
    - When prompted, enter your GitHub username and then your password. Note: If you have two-factor authentication enabled, you might need to generate and use a personal access token as a password.
